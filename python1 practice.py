@@ -1,3 +1,4 @@
+//code
 grade=input('enter grade')
 age=int(input('enter age'))
 exp=int(input('enter experience' ))
